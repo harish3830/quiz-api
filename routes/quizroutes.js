@@ -1,5 +1,6 @@
 const express = require("express");
-const quizData = require("../data/quizData.json"); 
+const quizData = require("../data/quizdata.json");
+
 
 const router = express.Router();
 
